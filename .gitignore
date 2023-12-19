@@ -4,3 +4,7 @@ mvnw
 mvnw.cmd
 target
 .vscode
+
+# ENV FILES
+
+src/main/resources/.env
