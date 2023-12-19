@@ -20,5 +20,3 @@ public class MovieService {
         return movieRepository.findMovieByImdbId(imdbId);
     }
 }
-
-// check
